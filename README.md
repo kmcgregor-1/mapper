@@ -1,6 +1,6 @@
 
 
-# mapper: a simple generator forrandom spatial distributions of sources
+# mapper: a simple generator for random spatial distributions of sources
 
 NOTE: I made this simple repository to learn how to use github for source control. Please do not take it too seriously :-)
 
